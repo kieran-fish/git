@@ -1,1 +1,1 @@
-print("loginÄ£¿é") 
+print("login Ä£¿é") 
